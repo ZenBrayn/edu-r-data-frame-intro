@@ -1,6 +1,6 @@
 # An Introduction to Data Frames
 
-*Understanding the organizational power of tabular ata fro data analysis*
+*Understanding the organizational power of tabular data for data analysis*
 
 ---
 
